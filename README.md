@@ -1,0 +1,1 @@
+This repository contains my proposed solution for the Autonomous Systems on Mars challenge for the Delivery Engineer Intern role at Veridion. The main deliverable is the design document (PDF). I have also extracted the core decision-logic pseudocode into a separate Python file for easy viewing.
